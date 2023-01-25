@@ -44,3 +44,17 @@ body {
 .x2__text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.x4 {
+    width: 100%;
+}
+
+.x4__logo {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.x4__text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
