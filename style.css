@@ -3,6 +3,20 @@ body {
     color: white;
 }
 
+.x3 {
+    width: 100%;
+}
+
+.x3__logo {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.x3_text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .x1 {
     width: 100%;
 }
