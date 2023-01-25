@@ -2,3 +2,17 @@ body {
     background-color: grey;
     color: white;
 }
+
+.x6 {
+    width: 100%;
+}
+
+.x6__logo {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.x6__text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
