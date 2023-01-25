@@ -86,3 +86,17 @@ body {
 .x6__text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.x7 {
+    width: 100%;
+}
+
+.x7__logo {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.x7__text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
